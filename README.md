@@ -4,8 +4,9 @@ A cookbook template for Obsidian Notes
 
 ## Overview
 This is an Obsidian vault configuration I use for cooking. I’ve found it useful to store recipes, but has Obsidian offers the befit of creating visualizations link visualizations. Is there a point to keep track of your food this way? Not really, but it does look interesting. Data viz aside, the ability to query your recipe book is the biggest use I’ve gotten from this app. 
+
 ## Set Up
-1. Download [Obsidian Notes](https://obsidian.md/download)
+1. Download and install [Obsidian Notes](https://obsidian.md/download)
 2. Download and extract this directory into the directory you want your vault in
 3. Run Obsidian and open this directory as your vault
 4. Set Template folder to the Templates folder
@@ -13,6 +14,7 @@ This is an Obsidian vault configuration I use for cooking. I’ve found it usefu
 6. Ensure Templates is enabled
 7. Open settings > Templates
 8. Set Template folder location to the Templates folder
+9. After setting up, feel free to delete this README file and the images it uses
 
 ## New Recipe
 - Create a new recipe in the Recipe folder
